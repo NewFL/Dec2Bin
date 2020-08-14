@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 a = int(input("Type number ")) 
+#need to add variable that will contane number after /
 print (a)
 c =int(a / 2)
 print (c)
