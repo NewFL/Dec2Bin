@@ -5,7 +5,7 @@ print (a)
 c =int(a / 2)
 print (c)
 if (c != 0):
-    d = c % 2
+    d = a % 2
     print (d)
 #PROBLEM IF TYPE 5 THEN D IS PRINTED AS 0, BUT IT SHOULD BE 1,AS 5%2=1
 #else:
