@@ -1,14 +1,5 @@
 #!/usr/bin/python3
 
-#MY TEST
-#a = int(input("Type number ")) 
-#print (a)
-#c =int(a / 2)
-#print (c)
-#if (c != 0):
-#    d = a % 2
-#    print (d)
-
 #IT WORKSSS
 def dec2bin(num):
     if num > 1:
@@ -18,7 +9,7 @@ def dec2bin(num):
 if __name__ == '__main__':
 #type the below decimal number you want to convert
     dec_val =115
-# call the fnction
+# call function
     dec2bin(dec_val)
 
 #https://www.geeksforgeeks.org/program-decimal-binary-conversion/
